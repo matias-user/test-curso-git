@@ -8,3 +8,10 @@ body{
     max-width: 1200px;
     margin: 0 auto;
 }
+.nav{
+    color: deeppink;
+    margin: 0 auto;
+    max-width: 1200px;
+    font-weight: bold;
+    border: 1px solid black;
+}
